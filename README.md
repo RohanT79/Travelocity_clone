@@ -1,3 +1,37 @@
+<h1 align="center" id="title">Travelocity Clone</h1>
+
+<p id="description">Travelocity.com is an online travel agency owned by Expedia Group. Travelocity is Travel Flights booking and Trip planning website. Travelocity Clone is made as similar to the actual website. This clone has similar functions and works similarly.</p>
+
+<h2>🚀 Demo</h2>
+
+[https://celadon-dodol-b03f1e.netlify.app/](https://celadon-dodol-b03f1e.netlify.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.ibb.co/8NMgW4y/Travelocity.jpg" alt="project-screenshot" width="400" height="250/"> 
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Sign-in/Sign-out
+*   Home Page
+*   Sub-Pages
+*   Payment page
+
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   HTML
+*   CSS
+*   JavaScript JS6
+*   React
+*   Redux
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
