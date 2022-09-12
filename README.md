@@ -1,104 +1,53 @@
-<h1 align="center" id="title">Travelocity Clone</h1>
+# React_Travelocity_Clone
+<p> Travelocity is an online travel agency. From this website, users can book a hotel room, flights, cars, etc. across the world..<br/>This is a very popular website for booking your tour. <p>
+<img src="https://s3.amazonaws.com/buygoon-app-static-resources-prod/retailers/logos/000/000/035/original/Travelocity.jpg?1477976276"/>
+<h2>Demo 🎥</h2>
+<li>Deployed  Link:-(https://celadon-dodol-b03f1e.netlify.app) </li>
 
-<p id="description">Travelocity.com is an online travel agency owned by Expedia Group. Travelocity is Travel Flights booking and Trip planning website. Travelocity Clone is made as similar to the actual website. This clone has similar functions and works similarly.</p>
+<h3>STEPS TO FOLLOW</h3>
+<li>How to deploy locally</li>
+<p>Executing the commands mentioned below one by one in your command line will help in making this React app .</p>
+**Cloning**
+<br/>
+<br/>
+<p>cd ./project</p>
+<p>npm start</p>
 
-<h2>🚀 Demo</h2>
+<h3>Features</h3>
 
-[https://celadon-dodol-b03f1e.netlify.app/](https://celadon-dodol-b03f1e.netlify.app/)
+<p>1.  This website is inspired from Travelocity website.</p>
+<p>A2. After starting the server you will be land to a very attactive home page where you can see diffrent packages for tours</p>
+<p2>3. In the home Page there are many things wgich you can visit but that you need to sign up first</p>
+<p>4. After Login you can fill the simple form for booking any tour  after filling and submitting the form you will be redirected to respective city
+routes where you can see many hotels related to that city.<p/>
+<p>5. In that pages you can use diffrent filters for sorting your hotels.<p/> 
+<p>6. For booking any specific hotel you can click on any of the hotel and you will be redirected to that hotel route dynammically.</p>
+<p>7. Now In that page you can see all the details about that hotel and from there you can select any room of that hotel by clicking on reserve button 
+and you will be redirected to payment page</p> 
+<p>8. In the payment page you need to fill all the forms and after that you need to complte you booking by paying money thorough upi/credit card or any option.</p>
+<p>9. After doing all the things you will be redirected to thank you page. Now your booking is successfully done</p>
+<p>10. Thier are many more features in our website for knowing more about our website you can check our deployed website link(https://celadon-dodol-b03f1e.netlify.app)</p>
+<br/>
+<br/>
 
-<h2>Project Screenshots:</h2>
+<h2>Tech Stack 💻<h2>
+  <li>React</li> <li>Redux</li> <li>Material UI</li><li>Local Storage</li>
+<br/>
+  <br/>
 
-<img src="https://i.ibb.co/8NMgW4y/Travelocity.jpg" alt="project-screenshot" width="400" height="250/"> 
+  <h2>Snap Shots📷</h2>
+  <li>Home Route</li>
+  <img src="https://user-images.githubusercontent.com/98823458/171941075-8a2a0fd2-03cc-4073-94a8-a40013220f97.png"/>
   
-<h2>🧐 Features</h2>
+  <li>Hotels Route</li>
+  
+<img src="https://user-images.githubusercontent.com/98823458/171940123-704304e9-9b81-4569-8c4f-04e5960ccc27.png"/>
 
-Here're some of the project's best features:
+  <li>Hotel details Route</li>
+  <img src="https://user-images.githubusercontent.com/98823458/171941485-6bcb066a-8ef1-48c0-9aaa-b8c24f1735f5.png"/>
 
-*   Sign-in/Sign-out
-*   Home Page
-*   Sub-Pages
-*   Payment page
+  
+  <li>Payment Route</li>
 
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
-*   HTML
-*   CSS
-*   JavaScript JS6
-*   React
-*   Redux
-
-
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  <img src="https://user-images.githubusercontent.com/98823458/171941782-3ca9f0dc-0c75-420d-b82d-7f816943c424.png"/><br/>
+ <h1  >Thank You</h1>
